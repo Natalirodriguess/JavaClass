@@ -16,11 +16,11 @@ public class DividePorZero {
         System.out.println(numero1/numero2);
         }
         catch (InputMismatchException e_1){
-            System.out.println("");
+            System.out.println("Erro de InputMismatchException detectado!");
 
         }
         catch (Throwable e_2){
-            System.out.println("");
+            System.out.println("Erro de Throwable detectado!");
         }
 
 
