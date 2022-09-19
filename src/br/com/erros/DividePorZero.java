@@ -20,7 +20,7 @@ public class DividePorZero {
 
         }
         catch (Throwable e_2){
-            System.out.println("Erro de Throwable detectado!");
+            System.out.println("Erro de ArithmaticException detectado!");
         }
 
 
