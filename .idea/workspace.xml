@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca1bb219-d8b2-49c6-a30c-73286c88e111" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cursoJavaAvancadoBradesco.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/animais/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/animais/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/contaBancaria/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/contaBancaria/ContaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/encapsulamentoExemplo/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/encapsulamentoExemplo/FuncionarioTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/erros/DividePorZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/herencaExemplo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/herencaExemplo/AnimalTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/herencaExemplo/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/herencaExemplo/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/herencaExemplo/Coruja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/herencaExemplo/Galinha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/operacoes/Matematica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/operacoes/MatematicaTeste.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Eo6qEXnNz1ZcRdPeYTLnn0P9a9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/thoma/Desktop/PROGRAMAÇÃO/JAVA/cursoJavaAvancadoBradesco"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca1bb219-d8b2-49c6-a30c-73286c88e111" name="Changes" comment="" />
+      <created>1663249778747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663249778747</updated>
+      <workItem from="1663249780473" duration="4069000" />
+      <workItem from="1663435946685" duration="3326000" />
+      <workItem from="1663519765602" duration="695000" />
+      <workItem from="1663526267785" duration="17388000" />
+      <workItem from="1663556212955" duration="449000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
